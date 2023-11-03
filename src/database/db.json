@@ -1,0 +1,41 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "name": "Product 1",
+        "description": "Description of Product 1",
+        "price": 10.99,
+        "available_quantity": 100,
+        "category": "Category A",
+        "barcode": "1234567890",
+        "createdAt": "4/20/2022, 2:21:56 PM",
+        "updatedAt": "11/3/2023, 1:01:42 PM"
+      },
+      {
+        "id": 2,
+        "name": "Product 2",
+        "description": "Description of Product 2",
+        "price": 15.99,
+        "available_quantity": 75,
+        "category": "Category B",
+        "barcode": "9876543210",
+        "createdAt": "4/20/2022, 2:21:56 PM",
+        "updatedAt": "11/3/2023, 1:01:42 PM"
+      },
+      {
+        "id": 3,
+        "name": "Product 3",
+        "description": "Description of Product 3",
+        "price": 8.50,
+        "available_quantity": 50,
+        "category": "Category A",
+        "barcode": "5432109876",
+        "createdAt": "4/20/2022, 2:21:56 PM",
+        "updatedAt": "11/3/2023, 1:01:42 PM"
+      }
+    ],
+    "historicalPrices": [
+        
+    ]
+  }
+  
